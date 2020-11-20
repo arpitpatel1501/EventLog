@@ -1,4 +1,4 @@
-# AUEventlog
+# Eventlog
 
 Eventlog is an event management app for universities.
 
